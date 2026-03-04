@@ -1,3 +1,6 @@
+
 # NURS_C_PROGRAMMING
+w = input()  
 q = input()  
-print
+c = w+q
+print(c)
